@@ -2,4 +2,12 @@
 
 A USB hack tool based on Arduino pro micro.
 
-see the full details here: http://hackwhiz.com/2015/03/evilduino-usb-hack-tool/
+# Requirements
+* Adafruit pro trinket 5V
+* platformio installed
+
+pio lib search trinket
+pio lib install 759
+
+# Usage
+pio run -t upload

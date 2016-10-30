@@ -1,0 +1,10 @@
+{
+    "description": "avr-gcc",
+    "name": "toolchain-atmelavr",
+    "system": [
+        "darwin_x86_64",
+        "darwin_i386"
+    ],
+    "url": "https://gcc.gnu.org/wiki/avr-gcc",
+    "version": "1.40801.0"
+}
